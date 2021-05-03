@@ -30,6 +30,10 @@ body {
       grid-template-columns: 1fr 1fr;
 }
 
+h1 {
+  margin-bottom: 50px;
+}
+
 #info div {
   padding: 3rem;
   background: cadetblue;
